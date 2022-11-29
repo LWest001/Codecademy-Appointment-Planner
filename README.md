@@ -1,3 +1,5 @@
 # Appointment Planner: Codecademy
 
-This is a project for the Codecademy React course. Some code was provided by Codecademy, and some code was written by student Leo Westebbe.
+This is a project for the Codecademy React course. It allows the user to add contacts to a contacts page and and appointments to the appointments page.
+
+Boilerplate files and some functions were provided by Codecademy. Most logical code written by Leo Westebbe.
